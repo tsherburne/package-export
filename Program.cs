@@ -6,7 +6,6 @@ using System.Text;
 using System.Threading;
 using Vitech.Genesys.Common;
 using Vitech.Genesys.Client;
-using Vitech.Genesys.Client.Coordination;
 
 namespace package_export
 {
